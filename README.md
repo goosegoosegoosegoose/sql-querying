@@ -1,4 +1,4 @@
 # sql-querying
-postgresql usage SELECT
+postgresql usage SELECT.
 git bash sucks and this course isn't windows friendly.
-spent long on this
+spent too long on this.
